@@ -35,7 +35,7 @@ greenlet==2.0.2
 gpt4all==0.1.7
 huggingface-hub==0.15.1
 humbug==0.3.2
-idna==3.4
+idna==3.7
 itsdangerous==2.1.2
 Jinja2==3.1.2
 jmespath==1.0.1
@@ -96,7 +96,7 @@ tenacity==8.2.2
 threadpoolctl==3.1.0
 tiktoken
 tqdm==4.65.0
-transformers==4.30.0
+transformers==4.38.0
 typer==0.7.0
 typing-inspect==0.8.0
 typing_extensions==4.5.0
