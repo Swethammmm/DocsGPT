@@ -104,3 +104,4 @@ urllib3==1.26.17
 vine==5.0.0
 wcwidth==0.2.6
 yarl==1.8.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
