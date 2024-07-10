@@ -120,3 +120,4 @@ wrapt==1.15.0
 XlsxWriter==3.1.2
 xxhash==3.3.0
 yarl==1.9.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
