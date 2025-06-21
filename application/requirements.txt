@@ -27,7 +27,7 @@ entrypoints==0.4
 faiss-cpu==1.7.3
 filelock==3.9.0
 Flask==2.2.5
-Flask-Cors==3.0.10
+Flask-Cors==6.0.0
 frozenlist==1.3.3
 geojson==2.5.0
 gunicorn==20.1.0
@@ -65,7 +65,7 @@ ppft==1.7.6.6
 prompt-toolkit==3.0.38
 py==1.11.0
 pyasn1==0.4.8
-pycares==4.3.0
+pycares==4.9.0
 pycparser==2.21
 pycryptodomex==3.17
 pycryptodome==3.19.0
@@ -100,7 +100,7 @@ transformers==4.30.0
 typer==0.7.0
 typing-inspect==0.8.0
 typing_extensions==4.5.0
-urllib3==1.26.17
+urllib3==2.5.0
 vine==5.0.0
 wcwidth==0.2.6
 yarl==1.8.2
