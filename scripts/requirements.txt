@@ -1,5 +1,5 @@
 aiodns==3.0.0
-aiohttp==3.8.5
+aiohttp==3.13.3
 aiohttp-retry==2.8.3
 aiosignal==1.3.1
 alabaster==0.7.13
@@ -29,7 +29,7 @@ esprima==4.0.1
 esutils==1.0.1
 et-xmlfile==1.1.0
 faiss-cpu==1.7.4
-filelock==3.12.2
+filelock==3.20.3
 Flask==2.3.2
 frozenlist==1.4.0
 greenlet==2.0.2
@@ -120,3 +120,5 @@ wrapt==1.15.0
 XlsxWriter==3.1.2
 xxhash==3.3.0
 yarl==1.9.2
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
