@@ -64,7 +64,7 @@ pox==0.3.2
 ppft==1.7.6.6
 prompt-toolkit==3.0.38
 py==1.11.0
-pyasn1==0.4.8
+pyasn1==0.6.2
 pycares==4.3.0
 pycparser==2.21
 pycryptodomex==3.17
